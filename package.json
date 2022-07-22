@@ -1,0 +1,25 @@
+{
+  "name": "pryme",
+  "version": "1.0.0",
+  "description": "Check if a number is prime",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draeder/pryme.git"
+  },
+  "keywords": [
+    "prime",
+    "number",
+    "check"
+  ],
+  "author": "Daniel Raeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/draeder/pryme/issues"
+  },
+  "homepage": "https://github.com/draeder/pryme#readme"
+}
