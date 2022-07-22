@@ -19,3 +19,6 @@ import pryme from 'pryme'
 let isPrime = pryme(100)
 console.log(isPrime)
 ```
+
+## Licence
+MIT
