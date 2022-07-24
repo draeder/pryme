@@ -29,7 +29,8 @@ npm i pryme -g
 
 ### Usage
 ```js
-$ pryme 1 // false
+$ pryme 1
+1 is prime? false
 prime > 101
 101 is prime? true
 prime > // wait for new input
