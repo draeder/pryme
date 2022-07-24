@@ -1,7 +1,7 @@
 # Pryme
 ## Check if a number is prime
 
-Pryme uses the optimizations documented [here](https://en.wikipedia.org/wiki/Primality_test#:~:text=9%20External%20links-,Simple%20methods,Otherwise%2C%20it%20is%20prime).
+Pryme uses the optimizations documented [here](https://stackoverflow.com/a/17579161/1551027).
 
 ## Install
 ```
@@ -17,7 +17,7 @@ let isPrime = pryme(101) // true
 ```js
 import pryme from 'pryme'
 
-let isPrime = pryme(214068005101)
+let isPrime = pryme(1000000000001003)
 console.log(isPrime) // true
 ```
 
