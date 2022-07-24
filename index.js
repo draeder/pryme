@@ -1,4 +1,5 @@
 const Pryme = num => {
+  if(!num) return false
   if(num === 2 || num === 3){
     return true
   }

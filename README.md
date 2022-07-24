@@ -10,13 +10,12 @@ npm i pryme
 
 ## Usage
 ```js
-let isPrime = pryme(101)
-// true
+let isPrime = pryme(101) // true
 ```
 
 ## Example
 ```js
-import pryme from './index.js'
+import pryme from 'pryme'
 
 let isPrime = pryme(214068005101)
 console.log(isPrime) // true
