@@ -31,9 +31,9 @@ npm i pryme -g
 ```js
 $ pryme 1
 1 is prime? false
-prime > 101
+pryme > 101
 101 is prime? true
-prime > // wait for new input
+pryme > // wait for new input
 ```
 
 ## Licence
