@@ -1,4 +1,4 @@
-const Pryme = n => {
+const Pryme = num => {
   let range = Math.sqrt(num)
   if(num <= 1) { return false } if (num <= 3) { return true }
   if (num % 2 === 0 || num % 3 === 0){ return false }
