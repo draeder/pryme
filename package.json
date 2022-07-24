@@ -1,6 +1,6 @@
 {
   "name": "pryme",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Check if a number is prime",
   "main": "index.js",
   "type": "module",

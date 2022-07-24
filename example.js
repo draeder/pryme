@@ -1,5 +1,5 @@
-import pryme from './index.js'
+import pryme from './test2.js'
 console.time()
-let isPrime = pryme(1000000000001003)
+let isPrime = pryme(3)
 console.timeEnd()
 console.log(isPrime)
